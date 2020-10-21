@@ -9,5 +9,5 @@ class App < Sinatra::Base
 	get "/infro" do
 		"Testing the info page"
 	end
-	
+
 end
